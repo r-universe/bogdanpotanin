@@ -18,3 +18,8 @@
 	url = https://github.com/cran/mnorm
 	shallow = true
 	registered = true
+[submodule "switchSelection"]
+	path = switchSelection
+	url = https://github.com/cran/switchSelection
+	shallow = true
+	registered = true
